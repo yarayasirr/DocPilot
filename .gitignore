@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Vector Database
+vectorstore/
+
+# Uploads
+uploads/
+
+# Node
+node_modules/
+
+# VS Code
+.vscode/
